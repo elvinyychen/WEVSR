@@ -1,9 +1,8 @@
-# WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
+# [ICML 2026] WEVSR: Video Diffusion Generators for Real-World Video Super-Resolution with Wavelet-Enhanced VAE Encoder
 
-**ICML 2026**
 
-Yuying Chen, Zhirui Liu, Linyan Jiang, Qifan Gao, Xianguo Zhang, Jianhou Gan, Wenqi Ren  
-Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) · Sun Yat-sen University · Tencent
+Authors: Yuying Chen, Zhirui Liu, Linyan Jiang, Qifan Gao, Xianguo Zhang, Jianhou Gan, Wenqi Ren  
+Institutions: Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) · Sun Yat-sen University · Tencent
 
 ---
 
